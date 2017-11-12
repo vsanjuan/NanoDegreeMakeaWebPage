@@ -27,7 +27,7 @@ h2 {
 }
 
 .around {
-	padding: 10px 10px 10px 10px;
+	padding: 10px;
 }
 
 .column {
@@ -48,7 +48,10 @@ h2 {
 	color: black;
 }
 
-/* This style are adapted from the materializecss project */
+/* This style are adapted from the materializecss project 
+   I have developped I grid so I can use in future projects
+   as well
+*/
 
 .col1 {
   width: 8.3333333333%;
